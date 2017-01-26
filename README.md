@@ -1,2 +1,2 @@
 # vimwiki
-My work journal. 
+* My work journal. 
