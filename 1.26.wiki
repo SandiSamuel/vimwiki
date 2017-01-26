@@ -1,0 +1,7 @@
+January 26, 2017
+
+* vimwiki set up
+* system config
+* pages project
+  * about me page 
+
