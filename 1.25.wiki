@@ -1,2 +1,4 @@
 January 25, 2017
 
+* Sytem config 
+* Started working on pages project

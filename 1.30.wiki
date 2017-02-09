@@ -1,7 +1,6 @@
 January 30, 2017
 
 * pages project
-  * about me page
   * school page
   * work page
 

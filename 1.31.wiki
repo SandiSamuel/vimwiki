@@ -1,4 +1,6 @@
 January 31, 2017
 
-* Worked on website
+* Pages project
+  * work page
+  * school page
 

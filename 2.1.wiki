@@ -1,0 +1,5 @@
+February 1, 2017
+
+* pages project
+  * finished about page
+
