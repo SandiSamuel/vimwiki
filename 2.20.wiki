@@ -1,0 +1,5 @@
+February 20, 2017
+* Worked on React To Do List
+  * Found a way to pass in the to dos array from the Root Container
+  * Started working on the function to add new todos to the to do list.
+

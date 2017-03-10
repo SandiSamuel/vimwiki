@@ -1,0 +1,4 @@
+February 16, 2017
+* Worked on React To Do List
+  * Went over how to begin coding in react
+  * Build a container and the necessary widgets to display the To Do list and replace the existing HTML in the RootContainer with it.

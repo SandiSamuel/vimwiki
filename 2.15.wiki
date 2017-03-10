@@ -1,0 +1,5 @@
+February 15, 2017
+* Got my React Practice Project
+  * Installed anaconda
+  * I had to creat a to do list program on React
+  * Went over the framework of the react practice project

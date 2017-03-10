@@ -1,0 +1,4 @@
+February 17, 2017
+* Worked on React To Do List
+  * Continued building containers and the necessary widgets to display the To Do list and replace the existing HTML in the RootContainer with it.
+
